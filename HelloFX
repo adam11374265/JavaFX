@@ -1,9 +1,0 @@
-import javafx.scene.shape.*;
-
-Rectangle r = new Rectangle();
-r.setX(50);
-r.setY(50);
-r.setWidth(200);
-r.setHeight(100);
-r.setArcWidth(20);
-r.setArcHeight(20);
